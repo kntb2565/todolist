@@ -1,0 +1,13 @@
+h1{
+ color: blue;
+ 
+}
+ body{
+    text-align: center;
+ }
+
+ img.example1{
+    background-image: url(img/utyu3.jpg); 
+    width: 96px;
+    height: 65px;
+  }

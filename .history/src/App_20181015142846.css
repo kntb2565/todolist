@@ -1,0 +1,25 @@
+import App from "./App.js";
+
+class App extends Component{
+  background-color: blue
+}
+html,body{
+  height:100%;
+}
+#content{
+  width: 100%;
+  position: relative;
+  min-height: 100%;
+}
+.main{
+  padding-bottom:40px; /*フッターの高さと同じ*/
+}
+footer{
+  height: 40px;
+  width: 100%;
+  position:absolute;
+  bottom:0;
+}
+.category{
+  color: bulue;
+}

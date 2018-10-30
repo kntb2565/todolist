@@ -1,0 +1,9 @@
+html,body{
+  height:100%;
+}
+
+body {
+  background-image: url(./img/utyu3.jpg) !important;
+  background-size: cover !important;
+  color: #fff !important;
+}

@@ -1,0 +1,18 @@
+h1{
+ color: blue;
+ 
+}
+ body{
+    text-align: center;
+ }
+
+ .todo{
+   width: 180px
+   background-image: url(img/utyu3.jpg); 
+ }
+
+ p{
+    color: blue;
+    text-align: center;
+ }
+ 
